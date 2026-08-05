@@ -3,7 +3,7 @@
 ### 10/01/25 - ©Fabio Benedetti (Plant Ecology group, IPS, Uni Bern)
 
 ### R script to use the query_timeseries() function of the 'rTubeDB' package of Stephan Wöllauer (Instrumentation Core Team)
-### to download the hourly temperature and precipitation and soil moisture (and wind maybe) data from the Biodiversity Exploratories' weather stations
+### to download the hourly temperature and precipitation and soil moisture (and wind maybe) data from the Explortaories' weather stations
 
 ### R script to: 
 ###  - Test the different options of the 'rTubeDB' package; Identify the best parameters to download the gap-filled
