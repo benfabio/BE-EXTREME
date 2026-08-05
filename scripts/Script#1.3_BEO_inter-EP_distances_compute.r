@@ -2,15 +2,15 @@
 
 ### 10/06/25 - ©Fabio Benedetti (Plant Ecology group, IPS, Uni Bern)
 
-### R script to compute inter-EPs distances (in km) based on their spatial coordinates (lat./long.)
-### We will use these distances for various analyses that may include: accounting for spatial autocorr.
+### R script to compute inter-EPs distances (in km) based on their spatial coordinates (lat./long.).
+### We will use these distances for various analyses that may include: accounting for spatial autocorrelation
 ### in causal linear models, identifying the top 5/10/15/30 closest grassland or forest EPs for 
 ### measuring microclimatic temperature offsets etc.
 
 ### We will use the 'geosphere' R package and the distm() function to compute inter-EPs Haversine distances
-### (that inregrate the curvature of the Earth - but that does not matter too much on that scale)
+### (that integrates the curvature of the Earth - but that does not matter too much on that scale)
 
-### Last update: 11/06/25 (Finding the top 10 closest forest EPs for any grassland EP)
+### Last update: 05/08/26 (Refreshing to sync with BE-EXTREME)
 
 ### ------------------------------------------------------------------------------------------------------------
 
