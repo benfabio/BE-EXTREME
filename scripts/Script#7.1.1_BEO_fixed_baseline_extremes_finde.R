@@ -3,7 +3,7 @@
 ### 12/05/25 - ©Fabio Benedetti (Plant Ecology group, IPS, Uni Bern)
 
 ### R script to extract the bias-corrected time series of daily temperature, moisture and precipitation (see Script#6.4.4) 
-### and define daily climatologies and statistical thresholdsfor ECEs detection based on the chosne percentile (1st/5th/10th). 
+### and define daily climatologies and statistical thresholds for ECEs detection based on the chosen percentile (1st/5th/10th). 
 ### Then use the full time series of the E-OBS data to identify extremes and measure some of their features
 ### (i.e., duration, intensity, heterogeneity, frequency etc.). 
 
