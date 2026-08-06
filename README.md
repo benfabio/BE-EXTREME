@@ -97,3 +97,12 @@ The climate stripes shown above were issued from: https://showyourstripes.info/
 > Graphics and lead scientist: Ed Hawkins, National Centre for Atmospheric Science, UoR.
 > Data: Berkeley Earth, NOAA, UK Met Office, MeteoSwiss, DWD, SMHI, UoR & ZAMG
 
+
+
+---
+## Funding
+
+<img width="250" height="90" alt="biodiversity_exploratories_logo_JPG" src="https://github.com/user-attachments/assets/0b1961e3-ad4c-4207-85e2-d326243f533b" />
+
+<img width="300" height="55" alt="dfg_logo_long" src="https://github.com/user-attachments/assets/b04d95ae-caeb-43c8-ba98-6d2a985dc2fd" />
+
