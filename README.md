@@ -83,7 +83,7 @@ A `CITATION.cff` file is included for automated citation tools (e.g. GitHub's "C
 
 ## License
 
-This code is released under the **CC-BY-4.0** license. See [`LICENSE`](LICENSE) for details.
+This code is released under the **CC0 1.0 Universal** license. See [`LICENSE`](LICENSE) for details.
 
 ---
 
